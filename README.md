@@ -1,7 +1,7 @@
 # Shivi_Portfolio
 Data Science Portfolio
 
-# Project 1: Airbnb Data Analysis
+# [Project 1: Airbnb Data Analysis - Project Overview](https://github.com/LohithChowdary/Airbnb-Data-Analysis)
 * Analyzed Airbnb listings in the city of New York, to understand if nonstandard amenities can be added to increase the revenue.
 * Cleaned and performed Exploratory Data Analysis, by implementing techniques like a word cloud, term generation matrix, visualizing neighbourhoods with high Airbnb listings on a map and carried out a sentimental analysis on reviews dataset to draw insights.
 * Created features from Amenities, by performing feature engineering.
