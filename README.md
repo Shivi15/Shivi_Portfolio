@@ -7,7 +7,7 @@ Data Science Portfolio
 * Created features from Amenities, by performing feature engineering.
 * Finally, evaluated 5 different models, and found out that XGBoost showed maximum accuracy in predicting the prices of Airbnb listings.
 
-# Project 2: Movie Recommendation System
+# [Project 2: Movie Recommendation System](https://github.com/Shivi15/Movie-Rec_System)
 * Developed a Collaborative Filtering Recommender System. Considering only user preferences into account, and if the two users share the same interests.
 * Using one-hot encoding, extracted and created a search for a movie by genres.
 * Performed data cleaning before learning about the distribution of rating data.
