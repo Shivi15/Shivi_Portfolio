@@ -40,6 +40,9 @@ Output for the User ID 364 (picked just for example), the following movies are r
 * Created features from Amenities by performing feature engineering.
 * Finally, evaluated 5 different models, and found out that XGBoost showed maximum accuracy in predicting Airbnb listings' prices.
 
+EDA on the price variable was one of the crucial steps in the complete EDA process. It was found that Manhattan’s average price was greater than the rest of the neighborhood groups. Brooklyn also has higher prices and is mostly because it's closer to Manhattan. Staten Island has higher prices because it's near to the central park.
+
+![](https://github.com/Shivi15/Shivi_Portfolio/blob/main/Images/Airbnb%20Data%20Analysis/Tableau%20Images/Amenities%20Wordcloud.png)
 
 
 
