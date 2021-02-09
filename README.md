@@ -32,7 +32,7 @@ To put numbers to this:
 
 Output for the User ID 364 (picked just for example), the following movies are recommended:
 
-![](https://github.com/Shivi15/Shivi_Portfolio/blob/main/Movie%20Recommendation%20System/Output.png)
+<img src="https://github.com/Shivi15/Shivi_Portfolio/blob/main/Movie%20Recommendation%20System/Output.png" alt="Your image title" width="350"/>
 
 # [Project 3: Airbnb Data Analysis - Project Overview](https://github.com/LohithChowdary/Airbnb-Data-Analysis)
 * Analyzed Airbnb listings in New York City to understand if nonstandard amenities can be added to increase the revenue.
@@ -42,7 +42,7 @@ Output for the User ID 364 (picked just for example), the following movies are r
 
 EDA on the price variable was one of the crucial steps in the complete EDA process. It was found that Manhattan’s average price was greater than the rest of the neighborhood groups. Brooklyn also has higher prices and is mostly because it's closer to Manhattan. Staten Island has higher prices because it's near to the central park.
 
-<img src="https://github.com/Shivi15/Shivi_Portfolio/blob/main/Images/Airbnb%20Data%20Analysis/Tableau%20Images/Amenities%20Wordcloud.png" alt="Your image title" width="250"/>
+<img src="https://github.com/Shivi15/Shivi_Portfolio/blob/main/Images/Airbnb%20Data%20Analysis/Tableau%20Images/Amenities%20Wordcloud.png" alt="Your image title" width="350"/>
 
 
 
