@@ -11,7 +11,7 @@ Data Science Portfolio
 
 Percentage of Population infected over time
 
-![](https://github.com/Shivi15/Shivi_Portfolio/blob/main/Covid-19%20Spread%20images/Cumulative%20Covid%20cases%20up%20to%20july%201%2C%202020.png)
+![](https://github.com/Shivi15/Shivi_Portfolio/blob/main/Covid-19%20Spread%20images/Percentage%20of%20population%20infected%20over%20time.gif)
 
 
 # [Project 2: Movie Recommendation System](https://github.com/Shivi15/Movie-Rec_System)
