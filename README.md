@@ -9,7 +9,7 @@ Data Science Portfolio
 
 ![](https://github.com/Shivi15/Shivi_Portfolio/blob/main/Covid-19%20Spread%20images/Counties%20ranked%20by%20Cumulative%20cases%20and%20deaths.gif)
 
-![image](https://github.com/Shivi15/Shivi_Portfolio/blob/main/Covid-19%20Spread%20images/Covid%20cases%2C%20deaths%2C%20population%20.png =250x250)
+<img src="https://github.com/Shivi15/Shivi_Portfolio/blob/main/Covid-19%20Spread%20images/Cumulative%20Covid%20cases%20up%20to%20july%201%2C%202020.png" alt="Your image title" width="250"/>
 
 
 # [Project 2: Movie Recommendation System](https://github.com/Shivi15/Movie-Rec_System)
