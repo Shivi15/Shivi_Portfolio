@@ -30,6 +30,10 @@ To put numbers to this:
 * Performed data cleaning before learning about the distribution of rating data.
 * Implemented two modelling techniques, IBCF and UBCF. Evaluating the ROC curve and Precision-Recall curve, UBCF became the top model with 88.2% accuracy.
 
+Output for the User ID 364 (picked just for example), the following movies are recommended:
+
+![](https://github.com/Shivi15/Shivi_Portfolio/blob/main/Movie%20Recommendation%20System/Output.png)
+
 # [Project 3: Airbnb Data Analysis - Project Overview](https://github.com/LohithChowdary/Airbnb-Data-Analysis)
 * Analyzed Airbnb listings in New York City to understand if nonstandard amenities can be added to increase the revenue.
 * Cleaned and performed Exploratory Data Analysis, by implementing techniques like a word cloud, Term generation matrix, visualizing neighbourhoods with high Airbnb listings using tableau on a map and carrying out a sentimental analysis on reviews dataset draw insights.
