@@ -32,7 +32,9 @@ To put numbers to this:
 
 Output for the User ID 364 (picked just for example), the following movies are recommended:
 
+<p align="center">
 <img src="https://github.com/Shivi15/Shivi_Portfolio/blob/main/Movie%20Recommendation%20System/Output.png" alt="Your image title" width="350"/>
+</p>
 
 # [Project 3: Airbnb Data Analysis - Project Overview](https://github.com/LohithChowdary/Airbnb-Data-Analysis)
 * Analyzed Airbnb listings in New York City to understand if nonstandard amenities can be added to increase the revenue.
