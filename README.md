@@ -19,8 +19,6 @@ Data Science Portfolio
 * Created features from Amenities by performing feature engineering.
 * Finally, evaluated 5 different models, and found out that XGBoost showed maximum accuracy in predicting Airbnb listings' prices.
 
-![](https://github.com/Shivi15/Shivi_Portfolio/blob/357bc412df20a14e4ed3831cc799cfb8ee0bb545/Images/Airbnb%20Data%20Analysis/Tableau%20Images/spatial1.jpeg)
 
-![](https://github.com/Shivi15/Shivi_Portfolio/blob/357bc412df20a14e4ed3831cc799cfb8ee0bb545/Images/Airbnb%20Data%20Analysis/Tableau%20Images/spatial2.jpeg)
 
 
