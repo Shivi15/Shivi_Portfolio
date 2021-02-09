@@ -52,5 +52,18 @@ EDA on the price variable was one of the crucial steps in the complete EDA proce
 <img src="https://github.com/Shivi15/Shivi_Portfolio/blob/main/Images/Airbnb%20Data%20Analysis/Tableau%20Images/Amenities%20Wordcloud.png" alt="Your image title" width="500"/>
 </p>
 
+Now, in the image below, you can see that Average price is high for Manhattan. Since, Brooklyn neighbourhoods are close to Manhattan, they tend to have higher average prices. And in Staten Island areas close to state park tend to have higher prices.
+
+<p align="center">
+<img src="https://github.com/Shivi15/Shivi_Portfolio/blob/main/Images/Airbnb%20Data%20Analysis/Tableau%20Images/neighbourhood_vs_listings.jpeg" alt="Your image title" width="500"/>
+</p>
+
+A review dataset is taken to derive more insights about the amenities. Customer reviews can provide a wealth of information if mined properly. 
+
+A term document matrix has been created which uses the Airbnb customer reviews to find word associations, given a word it gives back closest words in reviews. Keywords like near, close, around, great, place, transit, store are used to find word associations. Finding associations has revealed some interesting insights. New amenities that interest Airbnb customers are found. These are the amenities that are missing in the primary dataset. As this information is missing in our primary dataset, we relied on foursquare API to get information about nearby amenities.
+
+<p align="center">
+<img src="https://github.com/Shivi15/Shivi_Portfolio/blob/main/Images/Airbnb%20Data%20Analysis/Tableau%20Images/Tweets.png" alt="Your image title" width="500"/>
+</p>
 
 
