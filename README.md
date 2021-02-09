@@ -10,13 +10,13 @@ Data Science Portfolio
 Let’s look more closely at the top 10 counties by number of cases.
 
 <p align="center">
-<img src="https://github.com/Shivi15/Shivi_Portfolio/blob/main/Covid-19%20Spread%20images/Counties%20ranked%20by%20Cumulative%20cases%20and%20deaths.gif" alt="Your image title" width="350"/>
+<img src="https://github.com/Shivi15/Shivi_Portfolio/blob/main/Covid-19%20Spread%20images/Counties%20ranked%20by%20Cumulative%20cases%20and%20deaths.gif" alt="Your image title" width="500"/>
 </p">
   
 Percentage of Population infected by County over time.
 
 <p align="center">
-<img src="https://github.com/Shivi15/Shivi_Portfolio/blob/main/Covid-19%20Spread%20images/Percentage%20of%20population%20infected%20over%20time.gif" alt="Your image title" width="350"/>
+<img src="https://github.com/Shivi15/Shivi_Portfolio/blob/main/Covid-19%20Spread%20images/Percentage%20of%20population%20infected%20over%20time.gif" alt="Your image title" width="500"/>
 </p>
 
 The clustering of dark red counties seems to shift dramatically away from major metropolitan areas and into rural areas with lower population density. Suddenly, Los Angeles County looks fairly under control, while Arizona, Mississippi, and a smattering of counties in the Midwest look devastated.
@@ -37,7 +37,7 @@ To put numbers to this:
 Output for the User ID 364 (picked just for example), the following movies are recommended:
 
 <p align="center">
-<img src="https://github.com/Shivi15/Shivi_Portfolio/blob/main/Movie%20Recommendation%20System/Output.png" alt="Your image title" width="350"/>
+<img src="https://github.com/Shivi15/Shivi_Portfolio/blob/main/Movie%20Recommendation%20System/Output.png" alt="Your image title" width="500"/>
 </p>
 
 # [Project 3: Airbnb Data Analysis - Project Overview](https://github.com/LohithChowdary/Airbnb-Data-Analysis)
@@ -49,7 +49,7 @@ Output for the User ID 364 (picked just for example), the following movies are r
 EDA on the price variable was one of the crucial steps in the complete EDA process. It was found that Manhattan’s average price was greater than the rest of the neighborhood groups. Brooklyn also has higher prices and is mostly because it's closer to Manhattan. Staten Island has higher prices because it's near to the central park.
 
 <p align="center">
-<img src="https://github.com/Shivi15/Shivi_Portfolio/blob/main/Images/Airbnb%20Data%20Analysis/Tableau%20Images/Amenities%20Wordcloud.png" alt="Your image title" width="350"/>
+<img src="https://github.com/Shivi15/Shivi_Portfolio/blob/main/Images/Airbnb%20Data%20Analysis/Tableau%20Images/Amenities%20Wordcloud.png" alt="Your image title" width="500"/>
 </p>
 
 
