@@ -55,7 +55,7 @@ EDA on the price variable was one of the crucial steps in the complete EDA proce
 Now, in the image below, you can see that Average price is high for Manhattan. Since, Brooklyn neighbourhoods are close to Manhattan, they tend to have higher average prices. And in Staten Island areas close to state park tend to have higher prices.
 
 <p align="center">
-<img src="https://github.com/Shivi15/Shivi_Portfolio/blob/main/Images/Airbnb%20Data%20Analysis/Tableau%20Images/neighbourhood_vs_listings.jpeg" alt="Your image title" width="500"/>
+<img src="https://github.com/Shivi15/Shivi_Portfolio/blob/main/Images/Airbnb%20Data%20Analysis/Tableau%20Images/Neighbourhoods%20with%20high%20prices.png" alt="Your image title" width="500"/>
 </p>
 
 A review dataset is taken to derive more insights about the amenities. Customer reviews can provide a wealth of information if mined properly. 
