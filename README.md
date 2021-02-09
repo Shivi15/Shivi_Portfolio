@@ -11,13 +11,12 @@ Let’s look more closely at the top 10 counties by number of cases.
 
 <p align="center">
 <img src="https://github.com/Shivi15/Shivi_Portfolio/blob/main/Covid-19%20Spread%20images/Counties%20ranked%20by%20Cumulative%20cases%20and%20deaths.gif" alt="Your image title" width="350"/>
-![](https://github.com/Shivi15/Shivi_Portfolio/blob/main/Covid-19%20Spread%20images/Counties%20ranked%20by%20Cumulative%20cases%20and%20deaths.gif)
 </p">
   
 Percentage of Population infected by County over time.
 
 <p align="center">
-![](https://github.com/Shivi15/Shivi_Portfolio/blob/main/Covid-19%20Spread%20images/Percentage%20of%20population%20infected%20over%20time.gif)
+<img src="https://github.com/Shivi15/Shivi_Portfolio/blob/main/Covid-19%20Spread%20images/Percentage%20of%20population%20infected%20over%20time.gif" alt="Your image title" width="350"/>
 </p>
 
 The clustering of dark red counties seems to shift dramatically away from major metropolitan areas and into rural areas with lower population density. Suddenly, Los Angeles County looks fairly under control, while Arizona, Mississippi, and a smattering of counties in the Midwest look devastated.
