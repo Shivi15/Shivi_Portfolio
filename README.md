@@ -8,7 +8,8 @@ Data Science Portfolio
 * Using tableau's racing bar charts and animation found out, only 1.04% of LA counties are infected, 3.3% of Arizona counties are infected, and New York had an alarming infection rate of 13.5%.
 
 ![](https://github.com/Shivi15/Shivi_Portfolio/blob/main/Covid-19%20Spread%20images/Counties%20ranked%20by%20Cumulative%20cases%20and%20deaths.gif)
-![](https://github.com/Shivi15/Shivi_Portfolio/blob/main/Covid-19%20Spread%20images/Covid%20cases%2C%20deaths%2C%20population%20.png =250x250)
+
+![image](https://github.com/Shivi15/Shivi_Portfolio/blob/main/Covid-19%20Spread%20images/Covid%20cases%2C%20deaths%2C%20population%20.png =250x250)
 
 
 # [Project 2: Movie Recommendation System](https://github.com/Shivi15/Movie-Rec_System)
